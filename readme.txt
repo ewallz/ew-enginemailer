@@ -1,6 +1,6 @@
 === EW Enginemailer ===
-Contributors: ewallsolutions
-Donate link: https://www.ewallsolutions.com/
+Contributors: eWallz
+Donate link: https://www.ewallzsolutions.com/
 Tags: email, mail, smtp, api, enginemailer, phpmailer
 Requires at least: 6.8
 Tested up to: 6.8
@@ -12,7 +12,7 @@ Route all WordPress emails via Enginemailer API or SMTP, with fallback and deliv
 
 == Description ==
 
-[EW Enginemailer](https://www.ewallsolutions.com/) allows you to send all WordPress emails through the Enginemailer API for reliable delivery, with optional SMTP backup. Includes delivery logging, test email, and a clean admin UI.
+[EW Enginemailer](https://www.ewallzsolutions.com/) allows you to send all WordPress emails through the Enginemailer API for reliable delivery, with optional SMTP backup. Includes delivery logging, test email, and a clean admin UI.
 
 === Features ===
 
