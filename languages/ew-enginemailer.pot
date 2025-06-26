@@ -1,0 +1,324 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"Project-Id-Version: EW Enginemailer\n"
+"POT-Creation-Date: 2025-06-25 20:13+0800\n"
+"PO-Revision-Date: 2025-06-25 20:12+0800\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.2\n"
+"X-Poedit-Basepath: ..\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: ew-enginemailer.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.js\n"
+
+#: includes/addons-loader.php:6
+msgid "EW Enginemailer Add-ons"
+msgstr ""
+
+#: includes/addons-loader.php:7
+msgid ""
+"Add-ons are coming soon! Have a feature request? Please submit your idea or "
+"request on our <a href=\"https://github.com/ewallsolutions/ew-enginemailer/"
+"issues\" target=\"_blank\">GitHub Issues page</a>."
+msgstr ""
+
+#: includes/class-ew-enginemailer.php:64
+msgid "Settings"
+msgstr ""
+
+#. Plugin Name of the plugin/theme
+#: includes/class-ew-enginemailer.php:70
+msgid "EW Enginemailer"
+msgstr ""
+
+#: includes/settings.php:8
+msgid "General"
+msgstr ""
+
+#: includes/settings.php:9
+msgid "API Settings"
+msgstr ""
+
+#: includes/settings.php:10
+msgid "SMTP Backup"
+msgstr ""
+
+#: includes/settings.php:11
+msgid "Test Email"
+msgstr ""
+
+#: includes/settings.php:12
+msgid "Debug Info"
+msgstr ""
+
+#: includes/settings.php:13
+msgid "Add-ons"
+msgstr ""
+
+#: includes/settings.php:14
+msgid "Advanced"
+msgstr ""
+
+#: includes/settings.php:17
+#, php-format
+msgid ""
+"Please visit the <a target=\"_blank\" href=\"%s\">EW Enginemailer</a> "
+"documentation page for setup instructions."
+msgstr ""
+
+#: includes/settings.php:77
+msgid "Test Email from EW Enginemailer"
+msgstr ""
+
+#: includes/settings.php:78
+msgid ""
+"Hello,\n"
+"\n"
+"This is a test email sent from your WordPress site using EW Enginemailer. If "
+"you received this message, your email configuration is working correctly.\n"
+"\n"
+"Thank you!"
+msgstr ""
+
+#: includes/settings.php:91
+msgid "Test email sent successfully!"
+msgstr ""
+
+#: includes/settings.php:95
+msgid "Failed to send test email."
+msgstr ""
+
+#: includes/settings.php:108
+msgid "To"
+msgstr ""
+
+#: includes/settings.php:110
+msgid "Email address of the recipient"
+msgstr ""
+
+#: includes/settings.php:113
+msgid "Subject"
+msgstr ""
+
+#: includes/settings.php:115
+msgid "Subject of the email"
+msgstr ""
+
+#: includes/settings.php:118
+msgid "Message"
+msgstr ""
+
+#: includes/settings.php:120
+msgid "Email body"
+msgstr ""
+
+#: includes/settings.php:124
+msgid "Send Email"
+msgstr ""
+
+#: includes/settings.php:173
+msgid "Server Info"
+msgstr ""
+
+#: includes/settings.php:175
+msgid "Email Delivery Log (Latest 20 Entries)"
+msgstr ""
+
+#: includes/settings.php:181
+msgid "Settings from add-ons will appear here."
+msgstr ""
+
+#: includes/settings.php:196
+msgid "API Settings Saved!"
+msgstr ""
+
+#: includes/settings.php:209
+msgid "Enginemailer API Key"
+msgstr ""
+
+#: includes/settings.php:211
+msgid "Your Enginemailer API Key."
+msgstr ""
+
+#: includes/settings.php:216 includes/settings.php:290
+#: includes/settings.php:383
+msgid "Save Changes"
+msgstr ""
+
+#: includes/settings.php:241
+msgid "Settings Saved!"
+msgstr ""
+
+#: includes/settings.php:259
+msgid "From Email Address"
+msgstr ""
+
+#: includes/settings.php:261
+msgid ""
+"The email address which will be used as the From Address if it is not "
+"supplied to the mail function."
+msgstr ""
+
+#: includes/settings.php:264
+msgid "From Name"
+msgstr ""
+
+#: includes/settings.php:266
+msgid ""
+"The name which will be used as the From Name if it is not supplied to the "
+"mail function."
+msgstr ""
+
+#: includes/settings.php:269
+msgid "Force From Name"
+msgstr ""
+
+#: includes/settings.php:271
+msgid ""
+"The From name in the settings will be set for all outgoing email messages."
+msgstr ""
+
+#: includes/settings.php:274
+msgid "Force From Address"
+msgstr ""
+
+#: includes/settings.php:276
+msgid ""
+"The From address in the settings will be set for all outgoing email messages."
+msgstr ""
+
+#: includes/settings.php:279
+msgid "Disable SSL Certificate Verification"
+msgstr ""
+
+#: includes/settings.php:281
+msgid ""
+"As of PHP 5.6 you will get a warning/error if the SSL certificate on the "
+"server is not properly configured. You can check this option to disable that "
+"default behaviour. Please note that PHP 5.6 made this change for a good "
+"reason. So you should get your host to fix the SSL configurations instead of "
+"bypassing it"
+msgstr ""
+
+#: includes/settings.php:284
+msgid "Delete all plugin data upon uninstall"
+msgstr ""
+
+#: includes/settings.php:286
+msgid ""
+"If enabled, all plugin settings will be removed from the database when the "
+"plugin is uninstalled."
+msgstr ""
+
+#: includes/settings.php:320
+msgid "SMTP Backup Settings Saved!"
+msgstr ""
+
+#: includes/settings.php:336
+msgid "Enable SMTP Backup"
+msgstr ""
+
+#: includes/settings.php:338
+msgid ""
+"If enabled, SMTP will be used as a fallback if the API is not working or "
+"unable to connect."
+msgstr ""
+
+#: includes/settings.php:341
+msgid "SMTP Host"
+msgstr ""
+
+#: includes/settings.php:343
+msgid ""
+"The SMTP server which will be used to send email. For example: smtp.gmail.com"
+msgstr ""
+
+#: includes/settings.php:346
+msgid "SMTP Authentication"
+msgstr ""
+
+#: includes/settings.php:349
+msgid "True"
+msgstr ""
+
+#: includes/settings.php:350
+msgid "False"
+msgstr ""
+
+#: includes/settings.php:352
+msgid ""
+"Whether to use SMTP Authentication when sending an email (recommended: True)."
+msgstr ""
+
+#: includes/settings.php:356
+msgid "SMTP Username"
+msgstr ""
+
+#: includes/settings.php:358
+msgid "Your SMTP Username."
+msgstr ""
+
+#: includes/settings.php:361
+msgid "SMTP Password"
+msgstr ""
+
+#: includes/settings.php:363
+msgid ""
+"Your SMTP Password (The saved password is not shown for security reasons. If "
+"you do not want to update the saved password, you can leave this field empty "
+"when updating other options)."
+msgstr ""
+
+#: includes/settings.php:366
+msgid "Type of Encryption"
+msgstr ""
+
+#: includes/settings.php:369
+msgid "TLS"
+msgstr ""
+
+#: includes/settings.php:370
+msgid "SSL"
+msgstr ""
+
+#: includes/settings.php:371
+msgid "No Encryption"
+msgstr ""
+
+#: includes/settings.php:373
+msgid ""
+"The encryption which will be used when sending an email (recommended: TLS)."
+msgstr ""
+
+#: includes/settings.php:377
+msgid "SMTP Port"
+msgstr ""
+
+#: includes/settings.php:379
+msgid ""
+"The port which will be used when sending an email (587/465/25). If you "
+"choose TLS it should be set to 587. For SSL use port 465 instead."
+msgstr ""
+
+#. Plugin URI of the plugin/theme
+#. Author URI of the plugin/theme
+msgid "https://www.ewallsolutions.com"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid "Configure and route all WordPress emails via Enginemailer API or SMTP."
+msgstr ""
+
+#. Author of the plugin/theme
+msgid "eWall Solutions"
+msgstr ""
