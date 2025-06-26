@@ -2,9 +2,9 @@
 /*
 Plugin Name: EW Enginemailer
 Version: 1.0.0
-Plugin URI: https://www.ewallsolutions.com
-Author: eWall Solutions
-Author URI: https://www.ewallsolutions.com
+Plugin URI: https://www.ewallzsolutions.com
+Author: eWallz Solutions
+Author URI: https://www.ewallzsolutions.com
 Description: Configure and route all WordPress emails via Enginemailer API or SMTP.
 Text Domain: ew-enginemailer
 Domain Path: /languages
