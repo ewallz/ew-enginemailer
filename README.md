@@ -1,6 +1,6 @@
 # EW Enginemailer
 
-**Contributors**: eWallz  
+**Contributors**: eWallz - Custom Plugin Developer
 **Donate link**: [https://www.ewallzsolutions.com/](https://www.ewallzsolutions.com/)  
 **Tags**: email, mail, smtp, api, enginemailer, phpmailer  
 **Requires at least**: 6.8  
@@ -50,6 +50,9 @@ If SMTP Backup is enabled, the plugin will automatically try to send via SMTP. I
 
 ### Can I see if my emails are delivered?
 Yes, the *Debug Info* tab shows the latest 20 delivery attempts, including status, method, recipient, and any error response.
+
+### I need a different integration/plugin for my use case, can you develop one?
+Of course! Let's get in touch with me along with your requirements to hello@ewallzsolutions.com.
 
 ## Screenshots
 
