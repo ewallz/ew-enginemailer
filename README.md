@@ -1,6 +1,7 @@
 # EW Enginemailer
 
 **Contributors**: eWallz - Custom Plugin Developer
+
 **Donate link**: [https://www.ewallzsolutions.com/](https://www.ewallzsolutions.com/)  
 **Tags**: email, mail, smtp, api, enginemailer, phpmailer  
 **Requires at least**: 6.8  
